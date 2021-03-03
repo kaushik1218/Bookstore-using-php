@@ -1,6 +1,6 @@
 USE book_store1;
 
-CREATE TABLE IF NOT EXISTS `BookInventory` (
+CREATE TABLE IF NOT EXISTS `Bookinventory` (
   `book_id` int(4) NOT NULL AUTO_INCREMENT,
   `book_name` varchar(60) NOT NULL,
   `book_desc` longtext NOT NULL,
