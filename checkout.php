@@ -60,16 +60,16 @@
 					<img src="images/bookimage.jpg" height="300" width="800" alt="book">;
                     </center>
 				</div>
-				</div>
+				
 				
 	
 			<font style="font-size:30px;margin-left:420px">Shipping Details</font>	
 			<div class="container">
-	
+	    <!-- freshdesignweb top bar -->
             <div class="freshdesignweb-top">
                 <div class="clr"></div>
 				
-            </div> 
+            </div> <!--/ freshdesignweb top bar -->
 		
       <div  class="form">
     		<form id="contactform" method="post"> 
@@ -90,15 +90,15 @@
                 <p class="contact"><label for="country">Country</label></p> 
     			<input type="text" id="country" name="country" required="" placeholder="Country"> 
                 
-                <label for="cname">Name on the Card</label>
+                <label for="contact">Name on the Card</label>
                <input type="text" id="cname" name="cardname" required="" placeholder="Name on the Card">
-               <label for="ccnum">Credit card number</label>
+               <label for="contact">Credit card number</label>
                <input type="text" id="ccnum" name="cardnumber"  required="" maxlength="19" minlength="19" placeholder="1111-2222-3333-4444">
-               <label for="expmonth">Exp Month</label>
+               <label for="contact">Exp Month</label>
                <input type="number" id="expmonth" name="expmonth"  required="" placeholder="Exp Month"><br>
-               <label for="expyear">Exp Year</label>
+               <label for="contact">Exp Year</label>
                 <input type="number" id="expyear" name="expyear"  required="" placeholder="Exp Year"><br>
-                <label for="cvv">CVV</label>
+                <label for="contact">CVV</label>
                 <input type="text" id="cvv" name="cvv"  required="" placeholder="CVV">
             
             <input class="buttom" name="submit" id="submit" tabindex="5" value="Confirm & Proceed" type="submit"> 	 
@@ -106,3 +106,4 @@
 </div>      
 </div>
 </body>
+</html>
