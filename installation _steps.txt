@@ -1,0 +1,14 @@
+Step 1: Create a database name: "book_store1"
+step 2: import "BookStoreCreator.sql" & InsertBookInventory.sql file from database folder
+Step 3: Register yourself using register page
+Step 4: once you register please sign in
+Stpe 5: Please select a book from BookStore in the menu
+Step 6: Add a book to the cart
+Step 7: Select quantity you want to buy and click on Re-calculate to update the bookinventory in db with updated quantity
+Step 8: Now click on 'Confirm & Proceed'
+Step 9: You will be taken to Payment page. Fill the form and submit. Your order ID will be generated. 
+
+
+
+
+ 
