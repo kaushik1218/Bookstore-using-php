@@ -1,5 +1,5 @@
 Step 1: Create a database name: "book_store1"
-step 2: import "BookStoreCreator.sql" & InsertBookInventory.sql file from database folder
+step 2: import "BookStoreCreator.sql" & InsertBookInventory.sql file from database folder (mysql_connect.php file will be inside includes folder)
 Step 3: Register yourself using register page
 Step 4: once you register please sign in
 Stpe 5: Please select a book from BookStore in the menu
